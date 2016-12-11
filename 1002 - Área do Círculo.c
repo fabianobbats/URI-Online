@@ -11,6 +11,6 @@ int main(){
 	double a, r;
 	scanf("%lf", &r);
 	a = PI*r*r;
-	printf("A=%.4lf", a);
+	printf("A=%.4lf\n", a);
 	return 0;
 }
